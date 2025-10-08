@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E7C6B8,50:F4B6C2,100:FADCD9&height=200&section=header&text=Welcome%20to%20Heejin's%20GitHub%20🌷&fontSize=38&fontColor=3C3C3C&fontAlignY=35&desc=Exploring%20data,%20AI,%20and%20mathematics%20with%20curiosity%20and%20warmth.&descAlignY=55&descAlign=50&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7C6B8,50:F4B6C2,100:FADCD9&height=200&section=header&text=Welcome%20to%20Heejin's%20GitHub%20🌷&fontSize=38&fontColor=3C3C3C&fontAlignY=35&desc=Exploring%20data,%20AI,%20and%20mathematics%20through%20academic%20research%20and%20practical%20learning.&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Heejin An</h1>
 <h3 align="center">A passionate student from South Korea who loves exploring data, AI, and mathematics.<br>
   I’m currently focused on developing my skills in data analysis and AI applications.</h3>
