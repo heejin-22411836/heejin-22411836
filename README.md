@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Heejin%20An%20🌷&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=A%20student%20who%20loves%20data,%20AI,%20and%20mathematics.&descAlignY=55&descAlign=50&animation=fadeIn&gradientColor=afc8e4,c8c3e6,e7c6b8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E7C6B8,50:F4B6C2,100:FADCD9&height=200&section=header&text=Hi%20I'm%20Heejin%20An%20🌷&fontSize=40&fontColor=3C3C3C&fontAlignY=35&desc=A%20student%20who%20loves%20data,%20AI,%20and%20mathematics.&descAlignY=55&descAlign=50&animation=fadeIn)
 <h1 align="center">Hi 👋, I'm Heejin An</h1>
 <h3 align="center">A passionate student from South Korea who loves exploring data, AI, and mathematics.<br>
   I’m currently focused on developing my skills in data analysis and AI applications.</h3>
